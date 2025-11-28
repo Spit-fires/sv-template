@@ -8,3 +8,4 @@ Sveltekit starter for spitfire
 - tailwindcss
 - netlify adapter
 - lucide icons
+- SSR pocketbase
